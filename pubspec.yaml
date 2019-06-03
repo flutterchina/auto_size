@@ -1,0 +1,17 @@
+name: auto_size
+description: Flutter AutoSize plugin.
+version: 0.0.1
+author: Sky24n <863764940@qq.com>
+homepage: https://github.com/flutterchina/auto_size
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+

@@ -11,3 +11,9 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
+
+*/.idea/
+.idea/
+.idea/workspace.xml
+/.idea/workspace.xml
+/.idea/libraries
